@@ -3,7 +3,7 @@
 This Python script converts a given date in the format (dd/mm/yyyy) along with time (in 12-hour format) to Julian Days.
 
 ### Requirements:
-- Python 3.x
+- Python 3
 
 ### How to Use:
 1. Run the script.
